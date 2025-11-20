@@ -1,0 +1,11 @@
+# Force C# as the main language
+*.cs linguist-detectable=true
+
+# Mark other files as ignored for language statistics
+*.cpp linguist-detectable=false
+*.c linguist-detectable=false
+*.h linguist-detectable=false
+
+# Ignore build folders
+Build/ linguist-vendored
+Builds/ linguist-vendored
