@@ -8,6 +8,12 @@
 *.mm linguist-detectable=false
 *.m linguist-detectable=false
 
+# Hide ShaderLab and shader-related languages
+*.shader linguist-detectable=false
+*.cginc linguist-detectable=false
+*.hlsl linguist-detectable=false
+*.glsl linguist-detectable=false
+
 # Prevent CMake from affecting language statistics
 CMakeLists.txt linguist-detectable=false
 *.cmake linguist-detectable=false
