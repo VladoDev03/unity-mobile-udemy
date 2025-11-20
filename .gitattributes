@@ -1,11 +1,17 @@
-# Force C# as the main language
+# Force C# as the main detectable language
 *.cs linguist-detectable=true
 
-# Mark other files as ignored for language statistics
+# Prevent other languages from appearing in the statistics
 *.cpp linguist-detectable=false
 *.c linguist-detectable=false
 *.h linguist-detectable=false
+*.mm linguist-detectable=false
+*.m linguist-detectable=false
 
-# Ignore build folders
+# Prevent CMake from affecting language statistics
+CMakeLists.txt linguist-detectable=false
+*.cmake linguist-detectable=false
+
+# Ignore Unity build folders for language stats
 Build/ linguist-vendored
 Builds/ linguist-vendored
