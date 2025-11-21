@@ -1,0 +1,5 @@
+E:/GitRepositories/unity-mobile-udemy/Simple Driving/.utmp/RelWithDebInfo/3rxi442e/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/GitRepositories/unity-mobile-udemy/Simple Driving/.utmp/RelWithDebInfo/3rxi442e/arm64-v8a/CMakeFiles/rebuild_cache.dir
+E:/GitRepositories/unity-mobile-udemy/Simple Driving/.utmp/RelWithDebInfo/3rxi442e/arm64-v8a/GameActivity/CMakeFiles/game.dir
+E:/GitRepositories/unity-mobile-udemy/Simple Driving/.utmp/RelWithDebInfo/3rxi442e/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+E:/GitRepositories/unity-mobile-udemy/Simple Driving/.utmp/RelWithDebInfo/3rxi442e/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
