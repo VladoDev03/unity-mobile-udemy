@@ -1,0 +1,2 @@
+E:\GitRepositories\unity-mobile-udemy\Asteroid Avoider\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+E:\GitRepositories\unity-mobile-udemy\Asteroid Avoider\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
