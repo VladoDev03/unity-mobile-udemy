@@ -1,10 +1,19 @@
 # ninja log v5
 43	3139	7856150464507667	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	efac646d48241eeb
 34	3165	7856150464537588	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	543c2bb9f127ac6f
-65	3277	7856150465744595	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7366a1ee9aff028f
-1	3365	7856150466728774	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	806d9f2e339a750b
-9	3471	7856150467918770	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	58eb421b1b8be575
-25	3731	7856150470540549	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5b88ecc17d0062e7
-54	3856	7856150471820840	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	776fb7a9738cb8e2
-17	4014	7856150473402652	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	4237cb6fa03c5034
 4015	4203	7856150475333388	E:/GitRepositories/unity-mobile-udemy/Asteroid Avoider/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4h2d2ws2/obj/arm64-v8a/libgame.so	19cb4e645b7522a1
+9	3471	7856150467918770	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	58eb421b1b8be575
+65	3277	7856150465744595	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7366a1ee9aff028f
+54	3856	7856150471820840	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	776fb7a9738cb8e2
+1	3365	7856150466728774	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	806d9f2e339a750b
+25	3731	7856150470540549	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5b88ecc17d0062e7
+17	4014	7856150473402652	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	4237cb6fa03c5034
+14	2747	7857121103021784	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	efac646d48241eeb
+52	2784	7857121103330948	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	543c2bb9f127ac6f
+62	2844	7857121104144563	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7366a1ee9aff028f
+24	2858	7857121104284172	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	806d9f2e339a750b
+42	2975	7857121105494722	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	58eb421b1b8be575
+86	3025	7857121105984643	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	776fb7a9738cb8e2
+72	3290	7857121108651183	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5b88ecc17d0062e7
+33	3440	7857121110131937	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	4237cb6fa03c5034
+3440	3737	7857121113173835	E:/GitRepositories/unity-mobile-udemy/Asteroid Avoider/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4h2d2ws2/obj/arm64-v8a/libgame.so	19cb4e645b7522a1
